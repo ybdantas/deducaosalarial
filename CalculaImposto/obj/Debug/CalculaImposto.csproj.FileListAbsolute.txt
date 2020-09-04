@@ -1,0 +1,14 @@
+C:\Users\ybezi\source\repos\CalculaImposto\CalculaImposto\bin\Debug\CalculaImposto.exe.config
+C:\Users\ybezi\source\repos\CalculaImposto\CalculaImposto\bin\Debug\CalculaImposto.exe
+C:\Users\ybezi\source\repos\CalculaImposto\CalculaImposto\bin\Debug\CalculaImposto.pdb
+C:\Users\ybezi\source\repos\CalculaImposto\CalculaImposto\obj\Debug\CalculaImposto.csprojAssemblyReference.cache
+C:\Users\ybezi\source\repos\CalculaImposto\CalculaImposto\obj\Debug\CalculaImposto.Form1.resources
+C:\Users\ybezi\source\repos\CalculaImposto\CalculaImposto\obj\Debug\CalculaImposto.Properties.Resources.resources
+C:\Users\ybezi\source\repos\CalculaImposto\CalculaImposto\obj\Debug\CalculaImposto.csproj.GenerateResource.cache
+C:\Users\ybezi\source\repos\CalculaImposto\CalculaImposto\obj\Debug\CalculaImposto.csproj.CoreCompileInputs.cache
+C:\Users\ybezi\source\repos\CalculaImposto\CalculaImposto\obj\Debug\CalculaImposto.exe
+C:\Users\ybezi\source\repos\CalculaImposto\CalculaImposto\obj\Debug\CalculaImposto.pdb
+C:\Users\ybezi\source\repos\CalculaImposto\CalculaImposto\bin\Debug\CalculaImposto.exe.manifest
+C:\Users\ybezi\source\repos\CalculaImposto\CalculaImposto\bin\Debug\CalculaImposto.application
+C:\Users\ybezi\source\repos\CalculaImposto\CalculaImposto\obj\Debug\CalculaImposto.exe.manifest
+C:\Users\ybezi\source\repos\CalculaImposto\CalculaImposto\obj\Debug\CalculaImposto.application
